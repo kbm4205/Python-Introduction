@@ -1,0 +1,15 @@
+#These are variable names that CAN be used
+
+myvar = "Kyle"
+my_var = "Kyle"
+_my_var = "Kyle"
+myVar = "Kyle"
+MYVAR = "Kyle"
+myvar2 = "Kyle"
+
+print(myvar)
+print(my_var)
+print(_my_var)
+print(myVar)
+print(MYVAR)
+print(myvar2)
