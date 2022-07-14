@@ -1,0 +1,7 @@
+#These are variable names that CAN'T be used
+
+2myvar = "Kyle"
+my-var = "Kyle"
+my var = "Kyle"
+
+#They won't print and make errors
