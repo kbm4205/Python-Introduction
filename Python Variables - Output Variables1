@@ -1,0 +1,2 @@
+x = "Pancakes are delicious"
+print(x)
