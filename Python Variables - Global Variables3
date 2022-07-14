@@ -1,0 +1,7 @@
+def myfunc():
+  global x
+  x = "awesome!"
+  
+myfunc()
+
+print("Pancakes are " + x)
