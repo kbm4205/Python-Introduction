@@ -1,0 +1,7 @@
+"""
+This is another way of writting
+Comments in Python!
+(It looks way much better)
+"""
+
+print("Hello, World!")
