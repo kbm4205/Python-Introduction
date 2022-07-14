@@ -1,0 +1,7 @@
+a = 17
+A = "Kyle"
+
+print(a)
+print(A)
+
+#You can use the same variable and it creates 2 variables
