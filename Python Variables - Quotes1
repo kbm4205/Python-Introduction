@@ -1,0 +1,7 @@
+x = "Kyle"
+print(x)
+
+# This example is the same as
+
+x = 'Kyle'
+print(x)
