@@ -1,0 +1,13 @@
+x = "I"
+y = "love"
+z = "pancakes"
+
+print(x, y, z)
+
+#----Another example of this is using (x + y + z)----
+
+x = "I "
+y = "love "
+z = "pancakes"
+
+print(x + y + z)
