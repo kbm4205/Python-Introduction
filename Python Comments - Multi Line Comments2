@@ -1,6 +1,0 @@
-"""
-This is another way of writting
-Comments in Python!
-(it looks way much better)
-"""
-print("Hello, World!")
