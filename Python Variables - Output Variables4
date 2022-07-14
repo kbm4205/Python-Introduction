@@ -1,0 +1,16 @@
+#----You can't combine a string with a number----
+"""
+EX:
+x = 5
+y = "Kyle"
+
+print (x + y)
+
+(would result in an error)
+"""
+
+#----You can, however seperate with commas----
+x = 17
+y = "Kyle"
+
+print(x, y)
