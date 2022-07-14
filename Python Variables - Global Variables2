@@ -1,0 +1,9 @@
+x = "delicious!"
+
+def myfunc():
+  x = "amazing!"
+  print("Pancakes are " + x)
+
+myfunc()
+
+print("Pancakes are " + x)
