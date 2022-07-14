@@ -13,3 +13,17 @@ print(_my_var)
 print(myVar)
 print(MYVAR)
 print(myvar2)
+
+#----Multi Words Variable Names----
+
+#Camel Case (Begins in capital except 1st)
+myVariableName = "Kyle"
+print(myVariableName)
+
+#Pascal Case (All begin in capital)
+MyVariableName = "Kyle"
+print(MyVariableName)
+
+#Snake Case (Seperated by underscore)
+my_variable_name = "Kyle"
+print(my_variable_name)
